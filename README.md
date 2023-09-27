@@ -5,7 +5,7 @@ high memory or CPU  cases  websites down for some time. So we need an auto scrip
 
 1 . replace mailid= with your email , no space .
 
-   exemple mailid=jhon@domain.com
+   example mailid=jhon@domain.com
 	 
 2 . replace line 25 by your your apache2 file location
 
