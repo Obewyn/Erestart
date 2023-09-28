@@ -7,6 +7,6 @@ high memory or CPU  cases  websites down for some time. So we need an auto scrip
 
    example mailid=jhon@domain.com
 	 
-2 . replace line 25 by your your apache2 file location
+2 . replace line 25 by your apache2 file location
 
 3 . log file can be found here /var/log/apache_high_load_restart.log
